@@ -1,0 +1,12 @@
+com.dslplatform.compiler.client.aws.parameters.AwsDeploy
+com.dslplatform.compiler.client.aws.parameters.Region
+com.dslplatform.compiler.client.aws.parameters.AccessKey
+com.dslplatform.compiler.client.aws.parameters.SecretKey
+com.dslplatform.compiler.client.aws.parameters.ProjectName
+com.dslplatform.compiler.client.aws.parameters.DbInstance
+com.dslplatform.compiler.client.aws.parameters.DbDatabase
+com.dslplatform.compiler.client.aws.parameters.DbUsername
+com.dslplatform.compiler.client.aws.parameters.DbPassword
+com.dslplatform.compiler.client.aws.parameters.SourcePath
+com.dslplatform.compiler.client.aws.parameters.EbApplication
+com.dslplatform.compiler.client.aws.parameters.EbEnvironment
